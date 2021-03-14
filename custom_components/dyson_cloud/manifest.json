@@ -7,5 +7,5 @@
     "dependencies": [],
     "codeowners": ["@shenxn"],
     "requirements": ["libdyson==0.7.0"],
-    "version": "0.5.1"
+    "version": "0.6.0"
 }
