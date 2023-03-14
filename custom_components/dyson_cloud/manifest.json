@@ -2,10 +2,10 @@
     "domain": "dyson_cloud",
     "name": "Dyson Cloud",
     "config_flow": true,
-    "documentation": "https://github.com/shenxn/ha-dyson",
-    "issue_tracker": "https://github.com/shenxn/ha-dyson/issues",
+    "documentation": "https://github.com/libdyson-wg/ha-dyson",
+    "issue_tracker": "https://github.com/libdyson-wg/ha-dyson/issues",
     "dependencies": [],
-    "codeowners": ["@shenxn"],
-    "requirements": ["libdyson==0.8.7"],
-    "version": "0.15.0"
+    "codeowners": ["@dotvezz"],
+    "requirements": ["libdyson-neon==0.9.0"],
+    "version": "0.16.0"
 }
